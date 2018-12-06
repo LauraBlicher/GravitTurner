@@ -79,16 +79,16 @@ MonoBehaviour:
   motionBlur:
     m_Enabled: 0
     m_Settings:
-      shutterAngle: 270
-      sampleCount: 10
-      frameBlending: 0
+      shutterAngle: 1
+      sampleCount: 4
+      frameBlending: 0.047
   eyeAdaptation:
     m_Enabled: 0
     m_Settings:
       lowPercent: 45
       highPercent: 95
       minLuminance: -5
-      maxLuminance: 1
+      maxLuminance: -3.97
       keyValue: 0.25
       dynamicKeyValue: 1
       adaptationType: 0
@@ -130,7 +130,7 @@ MonoBehaviour:
         red: {x: 1, y: 0, z: 0}
         green: {x: 0, y: 1, z: 0}
         blue: {x: 0, y: 0, z: 1}
-        currentEditingChannel: 0
+        currentEditingChannel: 2
       colorWheels:
         mode: 1
         log:
@@ -313,23 +313,23 @@ MonoBehaviour:
     m_Enabled: 0
     m_Settings:
       colored: 1
-      intensity: 0.5
-      size: 1
-      luminanceContribution: 0.8
+      intensity: 0.202
+      size: 0.8
+      luminanceContribution: 0.14
   vignette:
     m_Enabled: 1
     m_Settings:
       mode: 0
-      color: {r: 0, g: 0, b: 0, a: 1}
+      color: {r: 0.15294118, g: 0.043137256, b: 0.18690951, a: 1}
       center: {x: 0.5, y: 0.5}
-      intensity: 0.399
-      smoothness: 0.308
-      roundness: 1
+      intensity: 0.562
+      smoothness: 0.524
+      roundness: 0.922
       mask: {fileID: 0}
       opacity: 1
       rounded: 0
   dithering:
-    m_Enabled: 0
+    m_Enabled: 1
   monitors:
     currentMonitorID: 0
     refreshOnPlay: 0
