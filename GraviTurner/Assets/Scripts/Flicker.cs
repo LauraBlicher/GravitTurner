@@ -13,12 +13,18 @@ public class Flicker : MonoBehaviour {
 	private SpriteRenderer sRenderer;
 	private UnityEngine.UI.Image img;
 	private UnityEngine.UI.Text text;
+    private Light lite;
+    private float lightLevel;
 
 	// Use this for initialization
 	void Start () {
 		sRenderer = GetComponent<SpriteRenderer> ();
 		img = GetComponent<UnityEngine.UI.Image> ();
 		text = GetComponent<UnityEngine.UI.Text> ();
+        lite = GetComponent<Light>();
+        if (lite != null){
+            lightLevel = lite.intensity;
+        }
 		StartCoroutine (FlameScale ());
 
 	}
@@ -50,6 +56,12 @@ public class Flicker : MonoBehaviour {
 				yield return new WaitForSeconds (delay);
 			}
 
+            if (lite != null)
+            {
+                alpha = Random.Range(lightLevel - flickerAmount, lightLevel);
+                lite.intensity = alpha;
+                yield return new WaitForSeconds(delay);
+            }
 		}
 	}
 }
