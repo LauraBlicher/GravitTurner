@@ -10,10 +10,10 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de5210ce93b60c74b910290c522cd727, type: 3}
   m_Name: EditorStartupPrefs
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier:
   welcomeScreenVersion: '1.9.0 '
-  playmakerVersion: 
+  playmakerVersion:
   showWelcomeScreen: 1
   showUpgradeGuide: 0
-  lastAutoUpdateSignature: '2018.2.19f1__/Users/laurauhliarova/Documents/GitHub/GravitTurner/GraviTurner/Assets__ '
+  lastAutoUpdateSignature: '2018.2.19f1__C:/Users/User/Desktop/GitHub/GravitTurner/GraviTurner/Assets__ '
   useLegacyNetworking: 0
