@@ -30,14 +30,14 @@ public class SceneLoader : MonoBehaviour {
         //Debug.Log("Pro :" + asyncLoad.progress);
         while (!asyncLoad.isDone)
         {
-            if (asyncLoad.progress >= 0.9f)
-            {
-                //Wait to you press the space key to activate the Scene
-                if (loadNext)
-                    //Activate the Scene
-                    asyncLoad.allowSceneActivation = true;
-            }
-
+			if (asyncLoad.progress >= 0.9f) {
+				//Wait to you press the space key to activate the Scene
+				if (loadNext) {
+					//Activate the Scene
+					asyncLoad.allowSceneActivation = true;
+					Physics.gravity = new Vector3 (0, -9.81f, 0);
+				}
+			}
             yield return null;
         }
     }
