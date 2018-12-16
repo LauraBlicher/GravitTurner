@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GravityFlip : MonoBehaviour {
 
-    public GameObject cam;
+    //public GameObject cam;
     public enum Directions { Up, Down, Left, Right};
     public Directions dir = Directions.Down;
     private bool isTurning;
@@ -13,8 +13,11 @@ public class GravityFlip : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
-	}
+
+       // cam = GameObject.FindGameObjectWithTag("MainCamera");
+        Physics.gravity= new Vector3(0, -9.81f, 0);
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -85,11 +88,11 @@ public class GravityFlip : MonoBehaviour {
         for (float i = 0; i < 90; i=i+speed)
         {
             transform.Rotate(new Vector3(0, 0, speed*-1f));
-            cam.transform.Rotate(new Vector3(0, 0, speed * -1f));
+          //  cam.transform.Rotate(new Vector3(0, 0, speed * -1f));
             if (transform.eulerAngles.z <= -179f)
             {
                 transform.rotation = new Quaternion(0, 0, 1f, 0);
-                cam.transform.rotation = new Quaternion(0, 0, 1f, 0);
+                //cam.transform.rotation = new Quaternion(0, 0, 1f, 0);
             }
                 yield return null;
         }
@@ -119,11 +122,11 @@ public class GravityFlip : MonoBehaviour {
         for (float i = 0; i < 90; i = i + speed)
         {
             transform.Rotate(new Vector3(0, 0, speed));
-            cam.transform.Rotate(new Vector3(0, 0, speed));
+            //cam.transform.Rotate(new Vector3(0, 0, speed));
             if (transform.eulerAngles.z <= -179f)
             {
                 transform.rotation = new Quaternion(0, 0, 1f, 0);
-                cam.transform.rotation = new Quaternion(0, 0, 1f, 0);
+                //cam.transform.rotation = new Quaternion(0, 0, 1f, 0);
             }
             yield return null;
         }

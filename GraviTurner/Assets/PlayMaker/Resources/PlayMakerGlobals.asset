@@ -32,3 +32,4 @@ MonoBehaviour:
     variableCategoryIDs: 
   events:
   - Respawn
+  - PlayerDeath
