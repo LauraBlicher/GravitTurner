@@ -8,12 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 22f20cdc7e344f449a3d74f6becedf90
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LauraScene.unity
     guid: 42c13ff033582c74eb14b6aca4ac3cb8
-  - enabled: 1
-    path: Assets/Scenes/Level1.unity
-    guid: f264ae1fb50acb84cafaeefa17bcee11
   - enabled: 1
     path: Assets/Scenes/New1.0.unity
     guid: 6169c86e1a54b4bc3b24940ab7f75564
@@ -33,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/New4.1.unity
     guid: 93025eb905b7648c7a02ef7f00d5cf5c
   - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: f264ae1fb50acb84cafaeefa17bcee11
+  - enabled: 0
     path: Assets/Scenes/New5.0.unity
     guid: 3acc050d116ac498688c01f54b5e3e59
   m_configObjects: {}
