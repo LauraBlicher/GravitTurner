@@ -57,7 +57,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1272519314935176}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.31, y: -4.73, z: 0}
+  m_LocalPosition: {x: -4.79, y: 4.46, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4749171766117404}
@@ -71,8 +71,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1823123598741534}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.08, y: 0.71, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalPosition: {x: 0.08, y: 0.81, z: 0}
+  m_LocalScale: {x: 0.52, y: 0.52, z: 1}
   m_Children: []
   m_Father: {fileID: 4039061498927074}
   m_RootOrder: 0
@@ -145,7 +145,7 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 2.027604, z: 1}
-  m_Center: {x: 0, y: 0.5138022, z: 0}
+  m_Center: {x: 0.08, y: 0.6, z: 0}
 --- !u!95 &95344377936871920
 Animator:
   serializedVersion: 3
@@ -220,7 +220,7 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: b8aa524d68513ce4b8f258d960e55c4e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -240,7 +240,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 20
-  m_Sprite: {fileID: 21300000, guid: 2a65ab58a463aa345bdf5d55b15a6308, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1af28e784dcfc9243bc5e6fedbe644c6, type: 3}
   m_Color: {r: 1, g: 0.8602941, b: 0.9383367, a: 1}
   m_FlipX: 0
   m_FlipY: 0

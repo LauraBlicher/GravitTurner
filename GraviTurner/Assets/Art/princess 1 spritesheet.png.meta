@@ -12,6 +12,8 @@ TextureImporter:
     21300014: princess 1 spritesheet_7
     21300016: princess 1 spritesheet_8
     21300018: princess 1 spritesheet_9
+    21300020: princess 1 spritesheet_10
+    21300022: princess 1 spritesheet_11
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -119,7 +121,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7753d57710be7ae4fb843ec04abe7f3c
+      spriteID: 2a0f6a394b8581348ab74fa5b39b01b3
       vertices: []
       indices: 
       edges: []
@@ -139,7 +141,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 170e94a1dc7f46847a7ad89095b4a344
+      spriteID: c30b450af3a22134a80aae35c52f06e0
       vertices: []
       indices: 
       edges: []
@@ -159,7 +161,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 862c14be5f364bb4e9546c735a8dbd5b
+      spriteID: 96698d04d07148d4ca8ac9f89c8be117
       vertices: []
       indices: 
       edges: []
@@ -179,7 +181,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 818ec6b6e3f48fb45865945cf993300b
+      spriteID: 7744216494a982b4abcf4b31216096e0
       vertices: []
       indices: 
       edges: []
@@ -199,7 +201,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 670d68bf28674b34299b2117a7f7e0cc
+      spriteID: ac3fa2ff71d162f458e9944f372e844e
       vertices: []
       indices: 
       edges: []
@@ -219,7 +221,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4eadaa8f35debdb4f92f86bd226b0946
+      spriteID: 851c86d23d6542f4d8213373d8d7297e
       vertices: []
       indices: 
       edges: []
@@ -239,7 +241,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16b35dd324a178241b8cb610e3e1cc1f
+      spriteID: d367de05bca7f4e46b7ef7da59c9e953
       vertices: []
       indices: 
       edges: []
@@ -259,7 +261,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a70c3df954cce345b335987e9d723e3
+      spriteID: 11583462029debb49b6514da74c48a3a
       vertices: []
       indices: 
       edges: []
@@ -279,7 +281,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8dac151c5e9e6141aceeca89e9346de
+      spriteID: 672e908f3409dd64c9939b112514f660
       vertices: []
       indices: 
       edges: []
@@ -299,7 +301,47 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e75b63951b56db54e883e93e776a5140
+      spriteID: bc02d4ded310f364b869b8caedee028d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess 1 spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207f48809f45b74ba165768816c0aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess 1 spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b32d1a980e72448b5069880b40fd9b
       vertices: []
       indices: 
       edges: []
