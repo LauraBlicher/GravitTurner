@@ -2312,7 +2312,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1321570297538892, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
       propertyPath: m_TagString
-      value: Crystal
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
