@@ -8,6 +8,8 @@ TagManager:
   - Pickup
   - Space
   - Spikes
+  - Hammer
+  - Crystal
   layers:
   - Default
   - TransparentFX
