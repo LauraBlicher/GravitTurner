@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4628461829929236}
   - component: {fileID: 212365824001097826}
+  - component: {fileID: 114380229550240054}
   m_Layer: 8
   m_Name: BackgroundStars
   m_TagString: Untagged
@@ -102,12 +103,12 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1339964580271006}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -44.05, y: 6.736076, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 4661171212868238}
   - {fileID: 4555672129645638}
   - {fileID: 4628461829929236}
-  - {fileID: 4661171212868238}
   - {fileID: 4425829534908272}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -119,7 +120,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1350294911325924}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.5, y: -4.4, z: 2}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_Children: []
   m_Father: {fileID: 4206021120526952}
@@ -132,11 +133,11 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1474725723805520}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4206021120526952}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4628461829929236
 Transform:
@@ -145,11 +146,11 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1266530084632578}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4206021120526952}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4661171212868238
 Transform:
@@ -158,11 +159,11 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1443283694405944}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.5, y: -4.4, z: -1.0799999}
+  m_LocalPosition: {x: 0, y: 0, z: 6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4206021120526952}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &95592633406581236
 Animator:
@@ -178,7 +179,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -191,10 +192,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1fc473f24dd12ed4a9604ab6ad371a43, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   referenceObject: {fileID: 0}
-  parallaxFactor: 0.5
+  parallaxFactor: 0.44
 --- !u!114 &114299128530443382
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -204,10 +205,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1fc473f24dd12ed4a9604ab6ad371a43, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   referenceObject: {fileID: 0}
-  parallaxFactor: 0.7
+  parallaxFactor: 0.4
+--- !u!114 &114380229550240054
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1266530084632578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fc473f24dd12ed4a9604ab6ad371a43, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  referenceObject: {fileID: 0}
+  parallaxFactor: 0.41
 --- !u!114 &114680086371799544
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -217,10 +231,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1fc473f24dd12ed4a9604ab6ad371a43, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   referenceObject: {fileID: 0}
-  parallaxFactor: 0.6
+  parallaxFactor: 0.42
 --- !u!198 &198233205595902922
 ParticleSystem:
   m_ObjectHideFlags: 1
