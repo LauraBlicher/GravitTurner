@@ -90,7 +90,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -413,11 +413,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4039061498927074, guid: 42f56017c04e0e843b88c5ed6051155f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -2.9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4039061498927074, guid: 42f56017c04e0e843b88c5ed6051155f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4039061498927074, guid: 42f56017c04e0e843b88c5ed6051155f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -443,26 +443,21 @@ Prefab:
       propertyPath: m_RootOrder
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 114467448332928978, guid: 42f56017c04e0e843b88c5ed6051155f,
+    - target: {fileID: 114439934745211680, guid: 42f56017c04e0e843b88c5ed6051155f,
         type: 2}
-      propertyPath: cam
+      propertyPath: winButton
       value: 
-      objectReference: {fileID: 1973373761}
-    - target: {fileID: 114110123433886522, guid: 42f56017c04e0e843b88c5ed6051155f,
+      objectReference: {fileID: 273655888}
+    - target: {fileID: 114439934745211680, guid: 42f56017c04e0e843b88c5ed6051155f,
         type: 2}
-      propertyPath: movementSpeed
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 114467448332928978, guid: 42f56017c04e0e843b88c5ed6051155f,
+      propertyPath: winText
+      value: 
+      objectReference: {fileID: 273655887}
+    - target: {fileID: 114439934745211680, guid: 42f56017c04e0e843b88c5ed6051155f,
         type: 2}
-      propertyPath: speed
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 54765376032087404, guid: 42f56017c04e0e843b88c5ed6051155f,
-        type: 2}
-      propertyPath: m_Mass
-      value: 1
-      objectReference: {fileID: 0}
+      propertyPath: buttonImage
+      value: 
+      objectReference: {fileID: 273655889}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42f56017c04e0e843b88c5ed6051155f, type: 2}
   m_IsPrefabAsset: 0
@@ -594,26 +589,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1 &770647308 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1272519314935176, guid: 42f56017c04e0e843b88c5ed6051155f,
-    type: 2}
-  m_PrefabInternal: {fileID: 488537435}
---- !u!114 &770647309
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 770647308}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 35ac142aa06774104be5fd7b7cef15b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hasHammer: 0
-  winButton: {fileID: 273655888}
-  winText: {fileID: 273655887}
-  buttonImage: {fileID: 273655889}
 --- !u!1001 &826670992
 Prefab:
   m_ObjectHideFlags: 0
@@ -2199,11 +2174,6 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
   m_IsPrefabAsset: 0
---- !u!1 &1973373761 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1726416924221280, guid: cdc673fbe41b631448a82aa4a09beba1,
-    type: 2}
-  m_PrefabInternal: {fileID: 319298640}
 --- !u!1001 &2015461385
 Prefab:
   m_ObjectHideFlags: 0

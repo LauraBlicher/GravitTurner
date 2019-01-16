@@ -57,6 +57,7 @@ GameObject:
   - component: {fileID: 54410544294305284}
   - component: {fileID: 114830340496635524}
   - component: {fileID: 114819170453590218}
+  - component: {fileID: 114598547743131932}
   m_Layer: 10
   m_Name: Player 2
   m_TagString: Player
@@ -87,7 +88,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1580352873139648}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.148, y: 5.23, z: 0.1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4619334937558966}
@@ -176,7 +177,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage:
+  m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -268,6 +269,21 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!114 &114598547743131932
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1580352873139648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35ac142aa06774104be5fd7b7cef15b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hasHammer: 0
+  winButton: {fileID: 0}
+  winText: {fileID: 0}
+  buttonImage: {fileID: 0}
 --- !u!114 &114819170453590218
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -277,8 +293,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ff65dda05dafa44ea71108f6a63c5ec, type: 3}
-  m_Name:
-  m_EditorClassIdentifier:
+  m_Name: 
+  m_EditorClassIdentifier: 
   movementSpeed: 5
   jumpForce: 5
 --- !u!114 &114830340496635524
@@ -290,8 +306,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c77a3ece54e1eb24e95fab9a712f0e2b, type: 3}
-  m_Name:
-  m_EditorClassIdentifier:
+  m_Name: 
+  m_EditorClassIdentifier: 
   dir: 1
   speed: 2
 --- !u!212 &212972222363542670
