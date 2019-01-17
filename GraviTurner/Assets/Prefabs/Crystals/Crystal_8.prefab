@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4912956357067620}
   - component: {fileID: 212201579520784966}
+  - component: {fileID: 65609637138155842}
   m_Layer: 0
   m_Name: Crystal_8
   m_TagString: Untagged
@@ -40,6 +41,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &65609637138155842
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1721120669666012}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.99, y: 2.44, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &212201579520784966
 SpriteRenderer:
   m_ObjectHideFlags: 1
