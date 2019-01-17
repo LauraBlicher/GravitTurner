@@ -3,9 +3,8 @@ guid: c42e34f9598e07b4eaa7f4eb00491053
 ScriptedImporter:
   fileIDToRecycleName:
     4800000: MainAsset
-    2186277476908879412: ImportLogs
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {instanceID: 0}
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
