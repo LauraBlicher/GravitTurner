@@ -114,7 +114,6 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1001 &2701526
 Prefab:
   m_ObjectHideFlags: 0
@@ -216,8 +215,6 @@ GameObject:
   m_PrefabInternal: {fileID: 53308376}
 =======
 >>>>>>> parent of 4b20b19... intro1
-=======
->>>>>>> parent of 4b20b19... intro1
 --- !u!1001 &261644134
 Prefab:
   m_ObjectHideFlags: 0
@@ -256,11 +253,7 @@ Prefab:
     - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 10
-=======
-      value: 6
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 6
 >>>>>>> parent of 4b20b19... intro1
@@ -302,11 +295,7 @@ Prefab:
         type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 12
-=======
-      value: 8
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 8
 >>>>>>> parent of 4b20b19... intro1
@@ -350,11 +339,7 @@ Prefab:
         type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 12
-=======
-      value: 8
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 8
 >>>>>>> parent of 4b20b19... intro1
@@ -587,11 +572,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 16
-=======
-  m_RootOrder: 9
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 9
 >>>>>>> parent of 4b20b19... intro1
@@ -661,11 +642,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 11
-=======
-  m_RootOrder: 3
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 3
 >>>>>>> parent of 4b20b19... intro1
@@ -801,11 +778,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 15
-=======
-  m_RootOrder: 7
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 7
 >>>>>>> parent of 4b20b19... intro1
@@ -837,11 +810,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 13
-=======
-  m_RootOrder: 4
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 4
 >>>>>>> parent of 4b20b19... intro1
@@ -886,11 +855,7 @@ Transform:
   - {fileID: 1837978784}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 14
-=======
-  m_RootOrder: 5
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 5
 >>>>>>> parent of 4b20b19... intro1

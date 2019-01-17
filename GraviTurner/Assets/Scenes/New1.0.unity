@@ -114,11 +114,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1001 &290562114
-=======
---- !u!1001 &278896655
->>>>>>> parent of 4b20b19... intro1
 =======
 --- !u!1001 &278896655
 >>>>>>> parent of 4b20b19... intro1
@@ -126,7 +122,6 @@ Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-<<<<<<< HEAD
 <<<<<<< HEAD
     m_TransformParent: {fileID: 0}
     m_Modifications:
@@ -171,8 +166,6 @@ GameObject:
     type: 2}
   m_PrefabInternal: {fileID: 290562114}
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
     m_TransformParent: {fileID: 2042205867}
     m_Modifications:
     - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
@@ -236,9 +229,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb,
     type: 2}
   m_PrefabInternal: {fileID: 278896655}
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
 --- !u!1001 &319298640
 Prefab:
@@ -297,11 +287,7 @@ Prefab:
         type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 14
-=======
-      value: 8
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 8
 >>>>>>> parent of 4b20b19... intro1
@@ -345,11 +331,7 @@ Prefab:
         type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 14
-=======
-      value: 8
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 8
 >>>>>>> parent of 4b20b19... intro1
@@ -583,11 +565,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
       propertyPath: m_RootOrder
-<<<<<<< HEAD
       value: 4
-=======
-      value: 1
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 1820864521741814, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
       propertyPath: m_Name
@@ -606,7 +584,6 @@ Prefab:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4370883307594076, guid: d4d818aa166034379a58b25c92e231a8, type: 2}
       propertyPath: m_RootOrder
@@ -688,12 +665,6 @@ Prefab:
       value: 1
       objectReference: {fileID: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-    - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
->>>>>>> parent of 4b20b19... intro1
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
   m_IsPrefabAsset: 0
@@ -740,11 +711,7 @@ Prefab:
     - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 10
-=======
-      value: 2
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 2
 >>>>>>> parent of 4b20b19... intro1
@@ -800,11 +767,7 @@ Prefab:
     - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 7
-=======
-      value: 0
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 0
 >>>>>>> parent of 4b20b19... intro1
@@ -909,7 +872,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1186,10 +1148,6 @@ Prefab:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> parent of 4b20b19... intro1
 --- !u!1 &1816755323
 GameObject:
   m_ObjectHideFlags: 0
@@ -1230,11 +1188,7 @@ Transform:
   - {fileID: 1837978784}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 15
-=======
-  m_RootOrder: 5
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 5
 >>>>>>> parent of 4b20b19... intro1
@@ -1578,15 +1532,11 @@ Prefab:
     - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4033946058368790, guid: f9c9aeb52c381444fac46f377d80652f, type: 2}
       propertyPath: m_LocalScale.y
       value: 0.42781252
-=======
-      value: 3
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 3
 >>>>>>> parent of 4b20b19... intro1
@@ -1608,10 +1558,7 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
   m_IsPrefabAsset: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
 --- !u!4 &1979779104 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb,
@@ -1701,9 +1648,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
 --- !u!1 &2090514600
 GameObject:
@@ -1766,7 +1710,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2096661485
@@ -1819,10 +1762,6 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
   m_IsPrefabAsset: 0
-=======
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -1136,13 +1136,10 @@ Prefab:
     - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
       propertyPath: m_LocalScale.y
       value: 0.6666667
-<<<<<<< HEAD
       objectReference: {fileID: 0}
     - target: {fileID: 1339964580271006, guid: f9e937daf07644e4e854f18bace7e48f, type: 2}
       propertyPath: m_IsActive
       value: 0
-=======
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}

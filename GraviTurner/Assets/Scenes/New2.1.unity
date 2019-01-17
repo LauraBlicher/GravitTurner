@@ -114,7 +114,6 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &28866642 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4671287151004160, guid: 9e21e5d2990936e4ca77ad0d78909084,
@@ -124,14 +123,10 @@ Transform:
 =======
 --- !u!1001 &148790359
 >>>>>>> parent of 4b20b19... intro1
-=======
---- !u!1001 &148790359
->>>>>>> parent of 4b20b19... intro1
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-<<<<<<< HEAD
 <<<<<<< HEAD
     m_TransformParent: {fileID: 1680519365}
     m_Modifications:
@@ -189,35 +184,6 @@ Prefab:
 =======
     - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
 >>>>>>> parent of 4b20b19... intro1
-=======
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -2.9
-      objectReference: {fileID: 0}
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0.83
-      objectReference: {fileID: 0}
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
->>>>>>> parent of 4b20b19... intro1
       propertyPath: m_LocalRotation.w
       value: 0.9977953
       objectReference: {fileID: 0}
@@ -225,7 +191,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 65054585159936722, guid: 42796a06a02cd3c449ac7f7a05270be0,
         type: 2}
       propertyPath: m_IsTrigger
@@ -325,20 +290,6 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42c858057bd6fa946b0be44876569677, type: 2}
   m_IsPrefabAsset: 0
-=======
-    - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 114021548076897826, guid: 42c858057bd6fa946b0be44876569677,
-        type: 2}
-      propertyPath: respawn
-      value: 
-      objectReference: {fileID: 172888050}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 42c858057bd6fa946b0be44876569677, type: 2}
-  m_IsPrefabAsset: 0
->>>>>>> parent of 4b20b19... intro1
 --- !u!1 &172888049
 GameObject:
   m_ObjectHideFlags: 0
@@ -368,9 +319,6 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &238899601
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
 Prefab:
   m_ObjectHideFlags: 0
@@ -381,11 +329,7 @@ Prefab:
     - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -2.9
-=======
-      value: -19.9
->>>>>>> parent of 4b20b19... intro1
 =======
       value: -19.9
 >>>>>>> parent of 4b20b19... intro1
@@ -393,11 +337,7 @@ Prefab:
     - target: {fileID: 4940720574326634, guid: 42c858057bd6fa946b0be44876569677, type: 2}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 0.83
-=======
-      value: 9.289999
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 9.289999
 >>>>>>> parent of 4b20b19... intro1
@@ -460,19 +400,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4197486975014090, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4197486975014090, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4197486975014090, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
       propertyPath: m_LocalRotation.z
-<<<<<<< HEAD
       value: -0
-=======
-      value: -0.7071068
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 4197486975014090, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
       propertyPath: m_LocalRotation.w
@@ -480,29 +416,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4197486975014090, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
       propertyPath: m_RootOrder
-<<<<<<< HEAD
       value: 4
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
       value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 1820864521741814, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
       propertyPath: m_Name
       value: Spikes (3)
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 4197486975014090, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
       propertyPath: m_LocalEulerAnglesHint.z
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 0
-=======
-      value: -90
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 212966252472962204, guid: 95a997000edea5542bbc3e5e9612cdef,
         type: 2}
@@ -515,7 +441,6 @@ Prefab:
     - target: {fileID: 65107531540419596, guid: 95a997000edea5542bbc3e5e9612cdef,
         type: 2}
       propertyPath: m_Size.x
-<<<<<<< HEAD
 <<<<<<< HEAD
       value: 3.6
       objectReference: {fileID: 0}
@@ -533,9 +458,6 @@ Prefab:
 =======
       value: 15.52
 >>>>>>> parent of 4b20b19... intro1
-=======
-      value: 15.52
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 65107531540419596, guid: 95a997000edea5542bbc3e5e9612cdef,
         type: 2}
@@ -545,15 +467,11 @@ Prefab:
 =======
       propertyPath: m_Size.x
       value: 15.1
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
   m_IsPrefabAsset: 0
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &161541653
 Prefab:
@@ -652,21 +570,13 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 95a997000edea5542bbc3e5e9612cdef, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1 &172888049
-=======
---- !u!1 &392547619
->>>>>>> parent of 4b20b19... intro1
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 172888050}
-=======
-  - component: {fileID: 392547621}
-  - component: {fileID: 392547620}
->>>>>>> parent of 4b20b19... intro1
   m_Layer: 0
   m_Name: RespawnObject
   m_TagString: Respawn
@@ -674,7 +584,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &172888050
 Transform:
   m_ObjectHideFlags: 0
@@ -736,13 +645,6 @@ Light:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-=======
---- !u!108 &392547620
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> parent of 4b20b19... intro1
   m_GameObject: {fileID: 392547619}
   m_Enabled: 1
   serializedVersion: 8
@@ -786,7 +688,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
@@ -854,10 +755,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4336712343555928, guid: eaf3ad0e4349a3644b87cca575f0ac71,
     type: 2}
   m_PrefabInternal: {fileID: 1951413533}
-=======
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
@@ -943,28 +840,21 @@ Tilemap:
   m_Enabled: 1
   m_Tiles:
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: 3, y: -6, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 4, y: -6, z: 0}
     second:
@@ -976,40 +866,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -8, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 5, y: -6, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -7, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: -6, z: 0}
     second:
@@ -1021,40 +898,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -6, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 7, y: -6, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -5, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 4, y: -5, z: 0}
     second:
@@ -1066,40 +930,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -4, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 5, y: -5, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -3, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: -5, z: 0}
     second:
@@ -1111,40 +962,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -2, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 7, y: -5, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -1, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 8, y: -5, z: 0}
     second:
@@ -1156,40 +994,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 0, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 9, y: -5, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 1, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 10, y: -5, z: 0}
     second:
@@ -1201,40 +1026,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 2, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 11, y: -5, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 3, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 12, y: -5, z: 0}
     second:
@@ -1246,40 +1058,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 4, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 13, y: -5, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 5, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 10, y: -4, z: 0}
     second:
@@ -1291,40 +1090,27 @@ Tilemap:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 6, y: 1, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 11, y: -4, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 2, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 12, y: -4, z: 0}
     second:
@@ -1336,40 +1122,27 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 6, y: 2, z: 0}
-    second:
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 13, y: -4, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 3, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 13, y: -3, z: 0}
     second:
@@ -1381,23 +1154,13 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 6, y: 3, z: 0}
-    second:
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -6, y: 1, z: 0}
-=======
-  - first: {x: -9, y: 4, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: -9, y: 4, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -1409,22 +1172,16 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -5, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 4, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -1432,11 +1189,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -4, y: 1, z: 0}
-=======
-  - first: {x: -9, y: 5, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: -9, y: 5, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -1448,7 +1201,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -3, y: 1, z: 0}
     second:
@@ -1460,23 +1212,13 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 6, y: 5, z: 0}
-    second:
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
->>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -2, y: 1, z: 0}
-=======
-  - first: {x: -9, y: 6, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: -9, y: 6, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -1488,22 +1230,16 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -1, y: 1, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 6, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -1511,11 +1247,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: 0, y: 1, z: 0}
-=======
-  - first: {x: -9, y: 7, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: -9, y: 7, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -1527,7 +1259,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 1, y: 1, z: 0}
     second:
@@ -1579,52 +1310,37 @@ Tilemap:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -3, y: 7, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -6, y: 2, z: 0}
     second:
       m_TileIndex: 6
       m_TileSpriteIndex: 6
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -2, y: 7, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: 2, z: 0}
 =======
   - first: {x: -1, y: 7, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -1, y: 7, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
@@ -1633,37 +1349,27 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -6, y: 3, z: 0}
     second:
       m_TileIndex: 6
       m_TileSpriteIndex: 6
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 0, y: 7, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: 3, z: 0}
 =======
   - first: {x: 6, y: 7, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 6, y: 7, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
@@ -1672,44 +1378,32 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -12, y: 4, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 8, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -6, y: 4, z: 0}
     second:
       m_TileIndex: 6
       m_TileSpriteIndex: 6
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -3, y: 8, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -1717,11 +1411,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: 0, y: 4, z: 0}
-=======
-  - first: {x: -2, y: 8, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: -2, y: 8, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -1733,22 +1423,16 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: 4, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -1, y: 8, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -1756,11 +1440,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -13, y: 5, z: 0}
-=======
-  - first: {x: 0, y: 8, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: 0, y: 8, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -1772,81 +1452,59 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -12, y: 5, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 8, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -6, y: 5, z: 0}
     second:
       m_TileIndex: 6
       m_TileSpriteIndex: 6
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 9, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -1, y: 5, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -3, y: 9, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 0, y: 5, z: 0}
 =======
   - first: {x: -2, y: 9, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -2, y: 9, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -1855,15 +1513,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 1, y: 5, z: 0}
 =======
   - first: {x: -1, y: 9, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -1, y: 9, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -1872,7 +1526,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: 5, z: 0}
     second:
@@ -1896,9 +1549,6 @@ Tilemap:
 =======
   - first: {x: 0, y: 9, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 0, y: 9, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
@@ -1908,131 +1558,95 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -6, y: 6, z: 0}
     second:
       m_TileIndex: 6
       m_TileSpriteIndex: 6
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 9, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -2, y: 6, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 10, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -1, y: 6, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -3, y: 10, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 0, y: 6, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -2, y: 10, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 1, y: 6, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -1, y: 10, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 2, y: 6, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 0, y: 10, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -2040,11 +1654,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: 6, y: 6, z: 0}
-=======
-  - first: {x: 6, y: 10, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: 6, y: 10, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -2056,7 +1666,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -13, y: 7, z: 0}
     second:
@@ -2071,9 +1680,6 @@ Tilemap:
 =======
   - first: {x: -9, y: 11, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -9, y: 11, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
@@ -2082,132 +1688,96 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -6, y: 7, z: 0}
     second:
       m_TileIndex: 6
       m_TileSpriteIndex: 6
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 11, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -3, y: 7, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 12, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -2, y: 7, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 12, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 0, y: 7, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 13, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 2, y: 7, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 13, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 3, y: 7, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: -9, y: 14, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -2215,11 +1785,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: 6, y: 7, z: 0}
-=======
-  - first: {x: 6, y: 14, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: 6, y: 14, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -2232,11 +1798,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -14, y: 8, z: 0}
-=======
-  - first: {x: -9, y: 15, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: -9, y: 15, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -2248,22 +1810,16 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -13, y: 8, z: 0}
     second:
       m_TileIndex: 5
       m_TileSpriteIndex: 5
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 6, y: 15, z: 0}
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -2271,11 +1827,7 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
   - first: {x: -12, y: 8, z: 0}
-=======
-  - first: {x: -9, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   - first: {x: -9, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -2287,7 +1839,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -6, y: 8, z: 0}
     second:
@@ -2302,9 +1853,6 @@ Tilemap:
 =======
   - first: {x: -8, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -8, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2313,15 +1861,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -2, y: 8, z: 0}
 =======
   - first: {x: -7, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -7, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2330,15 +1874,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -1, y: 8, z: 0}
 =======
   - first: {x: -6, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -6, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2347,15 +1887,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 0, y: 8, z: 0}
 =======
   - first: {x: -5, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -5, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2364,15 +1900,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 1, y: 8, z: 0}
 =======
   - first: {x: -4, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -4, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2381,15 +1913,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 2, y: 8, z: 0}
 =======
   - first: {x: -3, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -3, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2398,15 +1926,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 3, y: 8, z: 0}
 =======
   - first: {x: -2, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -2, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2415,7 +1939,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: 8, z: 0}
     second:
@@ -2466,9 +1989,6 @@ Tilemap:
 =======
   - first: {x: -1, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: -1, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2477,15 +1997,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -1, y: 9, z: 0}
 =======
   - first: {x: 0, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 0, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2494,15 +2010,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 1, y: 9, z: 0}
 =======
   - first: {x: 1, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 1, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2511,15 +2023,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 2, y: 9, z: 0}
 =======
   - first: {x: 2, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 2, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2528,7 +2036,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: 9, z: 0}
     second:
@@ -2571,30 +2078,21 @@ Tilemap:
       m_TileIndex: 6
       m_TileSpriteIndex: 6
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - first: {x: 3, y: 16, z: 0}
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: -2, y: 10, z: 0}
 =======
   - first: {x: 4, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 4, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2603,15 +2101,11 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 2, y: 10, z: 0}
 =======
   - first: {x: 5, y: 16, z: 0}
 >>>>>>> parent of 4b20b19... intro1
-=======
-  - first: {x: 5, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 7
       m_TileSpriteIndex: 7
@@ -2620,7 +2114,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   - first: {x: 6, y: 10, z: 0}
 =======
@@ -2681,9 +2174,6 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
   - first: {x: 11, y: 12, z: 0}
-=======
-  - first: {x: 6, y: 16, z: 0}
->>>>>>> parent of 4b20b19... intro1
     second:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
@@ -2692,7 +2182,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-<<<<<<< HEAD
   - first: {x: -6, y: 13, z: 0}
     second:
       m_TileIndex: 6
@@ -4114,8 +3603,6 @@ Prefab:
   m_IsPrefabAsset: 0
 --- !u!1001 &1216166018
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 0
@@ -4163,7 +3650,6 @@ Prefab:
       e02: 0
       e03: 0
       e10: 0
-<<<<<<< HEAD
       e11: 1
       e12: 0
       e13: 0
@@ -4342,52 +3828,6 @@ MonoBehaviour:
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 --- !u!1001 &1233800356
 =======
-=======
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-  m_TileColorArray:
-  - m_RefCount: 76
-    m_Data: {r: 1, g: 1, b: 1, a: 1}
-  m_AnimationFrameRate: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Origin: {x: -10, y: -6, z: 0}
-  m_Size: {x: 20, y: 24, z: 1}
-  m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
-  m_TileOrientation: 0
-  m_TileOrientationMatrix:
-    e00: 1
-    e01: 0
-    e02: 0
-    e03: 0
-    e10: 0
-    e11: 1
-    e12: 0
-    e13: 0
-    e20: 0
-    e21: 0
-    e22: 1
-    e23: 0
-    e30: 0
-    e31: 0
-    e32: 0
-    e33: 1
---- !u!1001 &615299442
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
->>>>>>> parent of 4b20b19... intro1
     - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
       propertyPath: m_LocalPosition.x
       value: 20
@@ -4447,7 +3887,6 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &799906980
-<<<<<<< HEAD
 >>>>>>> parent of 4b20b19... intro1
 Prefab:
   m_ObjectHideFlags: 0
@@ -4508,13 +3947,10 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 718ac396aa8a4a540b9f42bf0e893ebb, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &1241799150
-=======
->>>>>>> parent of 4b20b19... intro1
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-<<<<<<< HEAD
     m_TransformParent: {fileID: 604405783}
     m_Modifications:
     - target: {fileID: 4209179000641640, guid: ec37c9596354f714ba3b57fc29fde2a6, type: 2}
@@ -4570,8 +4006,6 @@ Prefab:
   m_IsPrefabAsset: 0
 --- !u!1 &1243435379
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
@@ -4620,9 +4054,6 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1 &1158314463
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
 GameObject:
   m_ObjectHideFlags: 0
@@ -4631,33 +4062,24 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
-<<<<<<< HEAD
   - component: {fileID: 1243435380}
   m_Layer: 0
   m_Name: group3
   m_TagString: Untagged
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   - component: {fileID: 1158314465}
   - component: {fileID: 1158314464}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Ground
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &1243435380
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
 --- !u!65 &1158314464
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4671,15 +4093,11 @@ BoxCollider:
   m_Size: {x: 15.945717, y: 16.020437, z: 1}
   m_Center: {x: -0.97146344, y: 3.0265112, z: 0}
 --- !u!4 &1158314465
-<<<<<<< HEAD
->>>>>>> parent of 4b20b19... intro1
-=======
 >>>>>>> parent of 4b20b19... intro1
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1243435379}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -4696,8 +4114,6 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1311256513
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
   m_GameObject: {fileID: 1158314463}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 5.99, z: 0}
@@ -4707,7 +4123,6 @@ Transform:
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1216166018
-<<<<<<< HEAD
 >>>>>>> parent of 4b20b19... intro1
 Prefab:
   m_ObjectHideFlags: 0
@@ -4768,13 +4183,10 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 42b9f2479ae2b5c4eb334ec9f993c566, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &1352548681
-=======
->>>>>>> parent of 4b20b19... intro1
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1243435380}
     m_Modifications:
     - target: {fileID: 4850607800506174, guid: faca85928f5567f4b83447918dc70429, type: 2}
@@ -4831,8 +4243,6 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 908645025}
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 224680965779986034, guid: 1d0ceb513ca47fd4caa75e29cb896fe8,
@@ -4866,7 +4276,6 @@ Transform:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224680965779986034, guid: 1d0ceb513ca47fd4caa75e29cb896fe8,
-<<<<<<< HEAD
         type: 2}
       propertyPath: m_LocalRotation.z
       value: 0
@@ -5015,8 +4424,6 @@ Prefab:
 >>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 114407254519004370, guid: 8f554bd06874c1c48a453ce5a1f1bf32,
-=======
->>>>>>> parent of 4b20b19... intro1
         type: 2}
       propertyPath: buttonImage
       value: 
@@ -5345,11 +4752,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
       propertyPath: m_RootOrder
-<<<<<<< HEAD
       value: 0
-=======
-      value: 4
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 1726416924221280, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
       propertyPath: m_Name
@@ -5541,7 +4944,6 @@ Prefab:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 4370883307594076, guid: d4d818aa166034379a58b25c92e231a8, type: 2}
       propertyPath: m_LocalRotation.x
       value: -0
@@ -5561,176 +4963,29 @@ Prefab:
     - target: {fileID: 4370883307594076, guid: d4d818aa166034379a58b25c92e231a8, type: 2}
       propertyPath: m_RootOrder
       value: 12
-=======
-    - target: {fileID: 114506337871343172, guid: 1d0ceb513ca47fd4caa75e29cb896fe8,
-        type: 2}
-      propertyPath: sceneToLoad
-      value: New2.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 114506337871343172, guid: 1d0ceb513ca47fd4caa75e29cb896fe8,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4d818aa166034379a58b25c92e231a8, type: 2}
   m_IsPrefabAsset: 0
-<<<<<<< HEAD
 --- !u!4 &2028672082 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4335098403962174, guid: 42b9f2479ae2b5c4eb334ec9f993c566,
     type: 2}
   m_PrefabInternal: {fileID: 1311256513}
 --- !u!1001 &2029429685
-=======
---- !u!114 &1216166019 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114562038533772648, guid: 1d0ceb513ca47fd4caa75e29cb896fe8,
-    type: 2}
-  m_PrefabInternal: {fileID: 1216166018}
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
---- !u!114 &1216166020 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114666106492959030, guid: 1d0ceb513ca47fd4caa75e29cb896fe8,
-    type: 2}
-  m_PrefabInternal: {fileID: 1216166018}
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
---- !u!114 &1216166021 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114005035572181436, guid: 1d0ceb513ca47fd4caa75e29cb896fe8,
-    type: 2}
-  m_PrefabInternal: {fileID: 1216166018}
-  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
---- !u!1001 &1393096265
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -2.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -0.05000019
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0.9978849
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: -0.06500529
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 114407254519004370, guid: 8f554bd06874c1c48a453ce5a1f1bf32,
-        type: 2}
-      propertyPath: buttonImage
-      value: 
-      objectReference: {fileID: 1216166019}
-    - target: {fileID: 114407254519004370, guid: 8f554bd06874c1c48a453ce5a1f1bf32,
-        type: 2}
-      propertyPath: winText
-      value: 
-      objectReference: {fileID: 1216166020}
-    - target: {fileID: 114407254519004370, guid: 8f554bd06874c1c48a453ce5a1f1bf32,
-        type: 2}
-      propertyPath: winButton
-      value: 
-      objectReference: {fileID: 1216166021}
-    - target: {fileID: 4167429266254438, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -187.454
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1 &1502151044
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1502151046}
-  - component: {fileID: 1502151045}
-  m_Layer: 0
-  m_Name: Grid
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!156049354 &1502151045
-Grid:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1502151044}
-  m_Enabled: 1
-  m_CellSize: {x: 1, y: 1, z: 0}
-  m_CellGap: {x: 0, y: 0, z: 0}
-  m_CellLayout: 0
-  m_CellSwizzle: 0
---- !u!4 &1502151046
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1502151044}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 600822279}
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1815312458
->>>>>>> parent of 4b20b19... intro1
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-<<<<<<< HEAD
     m_TransformParent: {fileID: 604405783}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 4b20b19... intro1
     m_Modifications:
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_LocalPosition.x
-<<<<<<< HEAD
       value: -12.5
-=======
-      value: 0
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_LocalPosition.y
-<<<<<<< HEAD
       value: -1.6000004
-=======
-      value: 24.09
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_LocalPosition.z
@@ -5738,31 +4993,22 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_LocalRotation.z
-<<<<<<< HEAD
       value: 0.1477509
-=======
-      value: 1
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_LocalRotation.w
-<<<<<<< HEAD
       value: 0.98902464
-=======
-      value: 0
->>>>>>> parent of 4b20b19... intro1
       objectReference: {fileID: 0}
     - target: {fileID: 4444374379462486, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
       propertyPath: m_RootOrder
-<<<<<<< HEAD
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1623116050475288, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
@@ -5785,36 +5031,10 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1
       objectReference: {fileID: 0}
-=======
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 1820864521741814, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
-      propertyPath: m_Name
-      value: Spikes (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4774288558112458, guid: 641093e2c4010db4596ce270d4563ddb, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 65886460468353244, guid: 641093e2c4010db4596ce270d4563ddb,
-        type: 2}
-      propertyPath: m_Size.x
-      value: 20.31
-      objectReference: {fileID: 0}
-    - target: {fileID: 212886282841457244, guid: 641093e2c4010db4596ce270d4563ddb,
-        type: 2}
-      propertyPath: m_Size.x
-      value: 20.23
-      objectReference: {fileID: 0}
->>>>>>> parent of 4b20b19... intro1
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18eb97b6b439b348ac9104ac384d9f5, type: 2}
   m_IsPrefabAsset: 0
-<<<<<<< HEAD
 --- !u!1001 &2084498405
-=======
---- !u!1001 &1824493802
->>>>>>> parent of 4b20b19... intro1
 =======
 --- !u!1001 &1824493802
 >>>>>>> parent of 4b20b19... intro1
@@ -5824,7 +5044,6 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4206021120526952, guid: f9e937daf07644e4e854f18bace7e48f, type: 2}
       propertyPath: m_LocalPosition.x
@@ -5854,37 +5073,17 @@ Prefab:
 =======
     - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
 >>>>>>> parent of 4b20b19... intro1
-=======
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 3.21
-      objectReference: {fileID: 0}
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -10
-      objectReference: {fileID: 0}
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
->>>>>>> parent of 4b20b19... intro1
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
     - target: {fileID: 4206021120526952, guid: f9e937daf07644e4e854f18bace7e48f, type: 2}
-=======
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
->>>>>>> parent of 4b20b19... intro1
 =======
     - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
 >>>>>>> parent of 4b20b19... intro1
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 4206021120526952, guid: f9e937daf07644e4e854f18bace7e48f, type: 2}
       propertyPath: m_LocalRotation.z
@@ -5954,28 +5153,6 @@ Prefab:
   m_IsPrefabAsset: 0
 --- !u!1001 &1908582654
 >>>>>>> parent of 4b20b19... intro1
-=======
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4823419827573222, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1726416924221280, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-      propertyPath: m_Name
-      value: Main Camera (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: cdc673fbe41b631448a82aa4a09beba1, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1001 &1908582654
->>>>>>> parent of 4b20b19... intro1
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -5985,11 +5162,7 @@ Prefab:
     - target: {fileID: 4850607800506174, guid: faca85928f5567f4b83447918dc70429, type: 2}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -12.74
-=======
-      value: -0.82
->>>>>>> parent of 4b20b19... intro1
 =======
       value: -0.82
 >>>>>>> parent of 4b20b19... intro1
@@ -5997,11 +5170,7 @@ Prefab:
     - target: {fileID: 4850607800506174, guid: faca85928f5567f4b83447918dc70429, type: 2}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 3.6100006
-=======
-      value: 18.67
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 18.67
 >>>>>>> parent of 4b20b19... intro1
@@ -6029,7 +5198,6 @@ Prefab:
     - target: {fileID: 4850607800506174, guid: faca85928f5567f4b83447918dc70429, type: 2}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4850607800506174, guid: faca85928f5567f4b83447918dc70429, type: 2}
@@ -6047,9 +5215,6 @@ Prefab:
     - target: {fileID: 4850607800506174, guid: faca85928f5567f4b83447918dc70429, type: 2}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -181.706
-=======
-      value: 6
->>>>>>> parent of 4b20b19... intro1
 =======
       value: 6
 >>>>>>> parent of 4b20b19... intro1

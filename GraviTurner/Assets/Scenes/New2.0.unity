@@ -1197,7 +1197,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 5, y: 1, z: 1}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_Center: {x: -0.5, y: -1.5, z: 0}
 --- !u!1001 &2020590753
 Prefab:
@@ -1246,9 +1245,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1580352873139648, guid: 70d9ba245aef4eb46be13e0149103469,
     type: 2}
   m_PrefabInternal: {fileID: 2020590753}
-=======
-  m_Center: {x: -0.50471807, y: -1.5, z: 0}
->>>>>>> parent of 4b20b19... intro1
 =======
   m_Center: {x: -0.50471807, y: -1.5, z: 0}
 >>>>>>> parent of 4b20b19... intro1
@@ -1310,10 +1306,7 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: 8f554bd06874c1c48a453ce5a1f1bf32, type: 2}
   m_IsPrefabAsset: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 4b20b19... intro1
 --- !u!1001 &2085784944
 Prefab:
   m_ObjectHideFlags: 0
