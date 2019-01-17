@@ -8,8 +8,6 @@ TagManager:
   - Pickup
   - Space
   - Spikes
-  - Hammer
-  - Crystal
   layers:
   - Default
   - TransparentFX
@@ -20,9 +18,9 @@ TagManager:
   - 
   - 
   - Background
-  - Player
-  - Player2
-  - Walls
+  - 
+  - 
+  - 
   - 
   - 
   - 

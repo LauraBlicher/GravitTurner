@@ -20,11 +20,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4658299691011964}
   - component: {fileID: 212095198223845086}
-  - component: {fileID: 65054585159936722}
-  - component: {fileID: 65964586341572360}
   m_Layer: 0
   m_Name: Crystal_10
-  m_TagString: Spikes
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42,30 +40,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &65054585159936722
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1759346692980034}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.68, y: 4.62, z: 0.2}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!65 &65964586341572360
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1759346692980034}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.68, y: 4.62, z: 0.2}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &212095198223845086
 SpriteRenderer:
   m_ObjectHideFlags: 1
